@@ -44,3 +44,4 @@ demo\main.o: D:\software\ARM\ARMCC\Bin\..\include\string.h
 demo\main.o: D:\software\ARM\ARMCC\Bin\..\include\stdbool.h
 demo\main.o: .\bsp\ps2.h
 demo\main.o: .\bsp\pid.h
+demo\main.o: .\bsp\ir8.h
