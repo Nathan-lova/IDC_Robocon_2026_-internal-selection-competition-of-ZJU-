@@ -9,7 +9,7 @@ demo\ps2.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
 demo\ps2.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
 demo\ps2.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h
 demo\ps2.o: ../Drivers/CMSIS/Include/core_cm4.h
-demo\ps2.o: C:\Users\34993\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+demo\ps2.o: D:\software\ARM\ARMCC\Bin\..\include\stdint.h
 demo\ps2.o: ../Drivers/CMSIS/Include/core_cmInstr.h
 demo\ps2.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
 demo\ps2.o: ../Drivers/CMSIS/Include/core_cmFunc.h
@@ -17,7 +17,7 @@ demo\ps2.o: ../Drivers/CMSIS/Include/core_cmSimd.h
 demo\ps2.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
 demo\ps2.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
 demo\ps2.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-demo\ps2.o: C:\Users\34993\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+demo\ps2.o: D:\software\ARM\ARMCC\Bin\..\include\stdio.h
 demo\ps2.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 demo\ps2.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
 demo\ps2.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
@@ -33,7 +33,7 @@ demo\ps2.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
 demo\ps2.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
 demo\ps2.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
 demo\ps2.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
-demo\ps2.o: C:\Users\34993\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
-demo\ps2.o: C:\Users\34993\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
-demo\ps2.o: C:\Users\34993\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-demo\ps2.o: C:\Users\34993\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+demo\ps2.o: D:\software\ARM\ARMCC\Bin\..\include\stdlib.h
+demo\ps2.o: D:\software\ARM\ARMCC\Bin\..\include\stdarg.h
+demo\ps2.o: D:\software\ARM\ARMCC\Bin\..\include\string.h
+demo\ps2.o: D:\software\ARM\ARMCC\Bin\..\include\stdbool.h

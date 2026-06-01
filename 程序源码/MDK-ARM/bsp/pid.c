@@ -47,6 +47,7 @@ static void pid_reset(PID_TypeDef * pid, float kp, float ki, float kd)
 	pid->kp = kp;
 	pid->ki = ki;
 	pid->kd = kd;
+	pid->target      = 0.0f;
 	pid->measure     = 0;
 	pid->err         = 0;
 	pid->last_err    = 0;
